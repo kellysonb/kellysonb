@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kelly Njiraini, an ICT expert. A professional in data analyst and software engineer. I ve knowldge in Python, java script, c, html among others
+- 👋 Hi, I’m @kelly Njiraini, an ICT expert. A professional in data analyst and software engineer. I ve knowldge in Python, java script, c,anguler,ebru, html among others
 - 👀 I’m interested in software and hardware engineering
 - 🌱 I’m currently learning  and also training in various institutions.I also do software engineering services
 - 💞️ I’m looking to collaborate with anyone who is interested
